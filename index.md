@@ -2,7 +2,7 @@
 
 ### Year 1
 * Computational Thinking
-* [Physical Computing](https://macaroneigh.github.io/physcom)
+* Physical Computing
 * Systems Architecture
 
 ### Year 2
