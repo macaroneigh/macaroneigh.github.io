@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(0,0,0,1);
+    color: rgba(255,255,255,1);
+    font-family: 'Abel', sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    width: 100%;
+}
+
+header .headertitle {
+    color: rgba(0, 0, 0, 1);
+    font-size: 20px;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+section {
+    overflow: auto;
+    margin: 10px auto;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 0, 1);
+    width: 50%;
+    transition: margin-left .5s;
+    padding: 10px 30px 10px 30px;
+}
